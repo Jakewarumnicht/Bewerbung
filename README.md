@@ -1,1 +1,1 @@
-Hier wird die Projektarbeit im Rahmen der Vorlesung OOP2 in der HWR gezeigt, die ich in dem 2.Semester mit drei Kommilitoninnen gemacht habe.
+Hier wird die Projektarbeit im Rahmen der Vorlesung OOP2 an der HWR gezeigt, die ich im 2.Semester mit drei Kommilitoninnen durchgeführt habe.
